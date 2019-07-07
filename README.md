@@ -15,6 +15,7 @@ Die mindest Batteriespannung zum Start der Schaltung betr‰gt 0,65V, sobald diese
 Abmaﬂe: 16 x 14 mm
 
 [Kontakt via Facebook](https://www.facebook.com/ronny.thomas.83)
+
 [Kontakt via Homematic Forum](https://homematic-forum.de/forum/memberlist.php?mode=viewprofile&u=13127)
 
 
