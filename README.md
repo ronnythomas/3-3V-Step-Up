@@ -11,6 +11,7 @@ Die mindest Batteriespannung zum Start der Schaltung betr‰gt 0,65V, sobald diese
 
 [Schaltplan siehe Seite 2](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=3&ved=2ahUKEwimu_XM7aLjAhUL5aYKHV7hB44QFjACegQIAxAC&url=http%3A%2F%2Fww1.microchip.com%2Fdownloads%2Fen%2FDeviceDoc%2F20002234D.pdf&usg=AOvVaw3vI1z42j1OuQBprTFb_Yut)
 
+[Warenkorb Reichelt](https://www.reichelt.de/my/1602971) Die Widerstandswerte weichen leicht von der Beschriftung ab, dieses ‰ndert in der Ausgangsspannung nicht merkbar etwas.
 
 Abmaﬂe: 16 x 14 mm
 
@@ -18,7 +19,7 @@ Abmaﬂe: 16 x 14 mm
 
 [Kontakt via Homematic Forum](https://homematic-forum.de/forum/memberlist.php?mode=viewprofile&u=13127)
 
-
+https://www.reichelt.de/my/1602971
 
 ![complete](image/1.jpg)
 
