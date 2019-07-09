@@ -13,7 +13,7 @@ Die mindest Batteriespannung zum Start der Schaltung beträgt 0,65V, sobald diese
 
 [Warenkorb Reichelt](https://www.reichelt.de/my/1602971) 
 
-Die Widerstandswerte weichen leicht von der Beschriftung ab, dieses ändert in der Ausgangsspannung nicht merkbar etwas.
+Die Widerstandswerte weichen leicht von der Beschriftung ab, dieses ändert die Ausgangsspannung auf 3,176V was auf die Funktion keinen Einfüss hat..
 
 Abmaße: 16 x 14 mm
 
