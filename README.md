@@ -15,6 +15,8 @@ Die mindest Batteriespannung zum Start der Schaltung beträgt 0,65V, sobald diese
 
 Die Widerstandswerte weichen leicht von der Beschriftung ab, dieses ändert die Ausgangsspannung auf 3,176V was auf die Funktion keinen Einfüss hat..
 
+Wer 5V Ausgangspannung benötigt müsste den 970k Widerstand gegen 470k und den 562k Widerstand gegen 150k Tauschen.
+
 Abmaße: 16 x 14 mm
 
 [Kontakt via Facebook](https://www.facebook.com/ronny.thomas.83)
