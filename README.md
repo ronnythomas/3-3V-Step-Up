@@ -1,4 +1,4 @@
-# 3,3V Step-Up für maximale kapazität ausnutzen der Batterien und Akkus
+# 3,3V Step-Up für maximale kapazitäts ausnutzen der Batterien und Akkus
 ## benötigte Hardware
  * 1x MCP1640T-I/CHY **SOT-23-6**
  * 1x Kondensator 4,7µF MLCC **0805**
